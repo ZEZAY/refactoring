@@ -25,7 +25,7 @@ private void initializeStage() {
 
 - Refactoring Signs:
 
-  - Parameter in line 2 is too long.
+  - Parameter in line 3 is too long.
 
 - Refactoring: use another format or add variables
 
